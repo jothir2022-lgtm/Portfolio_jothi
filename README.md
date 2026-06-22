@@ -64,7 +64,7 @@ Python | Java | JavaScript | Flask | Django | REST APIs | MySQL | Firebase | Mac
 
 - LinkedIn: www.linkedin.com/in/jothiRavi22
 - GitHub: https://github.com/jothri2022-lgtm
-- Email: your-email@example.com
+- Email: jothiravi2004@gmail.com
 
 ---
 
